@@ -120,6 +120,29 @@ class SecondTab extends StatelessWidget {
           RecordItem(
               fontColor: _fontColor,
               smallFontSpacing: _smallFontSpacing,
+              day: "FRIDAY"),
+          RecordItem(
+              fontColor: _fontColor,
+              smallFontSpacing: _smallFontSpacing,
+              day: "SATURDAY"),  RecordItem(
+              fontColor: _fontColor,
+              smallFontSpacing: _smallFontSpacing,
+              day: "WEDNESDAY"),
+          RecordItem(
+              fontColor: _fontColor,
+              smallFontSpacing: _smallFontSpacing,
+              day: "THURSDAY"),
+          RecordItem(
+              fontColor: _fontColor,
+              smallFontSpacing: _smallFontSpacing,
+              day: "FRIDAY"),
+          RecordItem(
+              fontColor: _fontColor,
+              smallFontSpacing: _smallFontSpacing,
+              day: "FRIDAY"),
+          RecordItem(
+              fontColor: _fontColor,
+              smallFontSpacing: _smallFontSpacing,
               day: "SATURDAY"),
         ],
       ),

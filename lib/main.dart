@@ -58,11 +58,11 @@ class AppClock extends StatelessWidget {
                                 tabs: [
                                   Tab(
                                     text: "ALARMS",
-                                    icon: Icon(Icons.menu, size: 40),
+                                    icon: Icon(Icons.access_alarm, size: 40),
                                   ),
                                   Tab(
                                     text: "RECORDS",
-                                    icon: Icon(Icons.menu, size: 40),
+                                    icon: Icon(Icons.book, size: 40),
                                   ),
                                   Tab(
                                     text: "PROFILE",

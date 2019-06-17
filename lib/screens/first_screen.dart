@@ -69,8 +69,6 @@ class FirstTab extends StatelessWidget {
                   )
                 ],
               ),
-
-
           ],
         )
       ],
